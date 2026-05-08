@@ -1,0 +1,19 @@
+packages/effects/plugins/src/tiptap/tiptap.vue
+  s_85973466e08e18::t_f99f75d262bb2b 52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "70c9cf6607844d78306a4f3340bbc41b8fca4a90",
+  "prompts": {},
+  "sessions": {
+    "s_85973466e08e18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eeb010ef-5028-4eb1-8641-04d6e3f4ebd0",
+        "model": "glm-5"
+      },
+      "human_author": "yuan.ji <961999367@qq.com>"
+    }
+  }
+}
