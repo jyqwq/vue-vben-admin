@@ -1,0 +1,26 @@
+packages/effects/plugins/src/tiptap/types.ts
+  h_5960e290997e69 33
+playground/src/adapter/component/index.ts
+  h_5960e290997e69 76,727-746
+  s_85973466e08e18::t_3fae5304c90775 77
+packages/effects/plugins/src/tiptap/tiptap.vue
+  s_85973466e08e18::t_3fae5304c90775 163-166
+  s_85973466e08e18::t_f99f75d262bb2b 52
+  h_5960e290997e69 31,45-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "e7eff0037cd723c236b47df1dd1fe062cd320735",
+  "prompts": {},
+  "sessions": {
+    "s_85973466e08e18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eeb010ef-5028-4eb1-8641-04d6e3f4ebd0",
+        "model": "glm-5"
+      },
+      "human_author": "yuan.ji <961999367@qq.com>"
+    }
+  }
+}
