@@ -1,0 +1,38 @@
+docs/.vitepress/config/zh.mts
+  h_5960e290997e69 199-202
+docs/src/demos/vben-tiptap/basic/index.vue
+  s_85973466e08e18::t_219c8577c91d05 1,4-9,12-13,18
+  s_85973466e08e18::t_3fae5304c90775 14-17
+  h_5960e290997e69 2-3,10-11,19-20
+docs/src/en/components/common-ui/vben-tiptap.md
+  s_85973466e08e18::t_ea6f663c4e9b8e 13
+  s_85973466e08e18::t_0d88e0868095a3 1-12,14-48,51-56,60-84,90-150,152-193,195-198
+  s_85973466e08e18::t_3fae5304c90775 49-50,57-59,85-89,151,194,199
+docs/.vitepress/config/en.mts
+  h_5960e290997e69 201-204
+docs/src/components/common-ui/vben-tiptap.md
+  s_85973466e08e18::t_eae9224988e094 136-137
+  h_5960e290997e69 13,148
+  s_85973466e08e18::t_c1a9f6bb86f8c0 1-12,14-18,20-48,51-56,60-84,90-135,138-147,149-150,152-193,195-199
+  s_85973466e08e18::t_9ca1a28266676c 19
+  s_85973466e08e18::t_3fae5304c90775 49-50,57-59,85-89,151,194
+docs/src/demos/vben-tiptap/image-upload/index.vue
+  s_85973466e08e18::t_548a7922fa17e7 1,4-11,13-28,31-41,44-45
+  h_5960e290997e69 2-3,12,29-30,42-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "9332177a550d7d4e0f81d23b8fa5301fbb019ca0",
+  "prompts": {},
+  "sessions": {
+    "s_85973466e08e18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eeb010ef-5028-4eb1-8641-04d6e3f4ebd0",
+        "model": "glm-5"
+      },
+      "human_author": "yuan.ji <961999367@qq.com>"
+    }
+  }
+}
