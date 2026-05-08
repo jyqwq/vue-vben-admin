@@ -1,0 +1,19 @@
+playground/src/adapter/component/index.ts
+  s_85973466e08e18::t_5fbedc31481871 737-738
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "b1d00c06ca3412b202745d1b1316383e43604cb9",
+  "prompts": {},
+  "sessions": {
+    "s_85973466e08e18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eeb010ef-5028-4eb1-8641-04d6e3f4ebd0",
+        "model": "glm-5"
+      },
+      "human_author": "yuan.ji <961999367@qq.com>"
+    }
+  }
+}
