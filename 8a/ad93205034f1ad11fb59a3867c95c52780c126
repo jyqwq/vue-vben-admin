@@ -1,0 +1,32 @@
+docs/src/demos/vben-tiptap/basic/index.vue
+  s_85973466e08e18::t_3fae5304c90775 14-16
+playground/src/adapter/component/index.ts
+  s_85973466e08e18::t_3fae5304c90775 77
+packages/effects/plugins/src/tiptap/tiptap.vue
+  s_85973466e08e18::t_3fae5304c90775 163-166
+docs/src/en/components/common-ui/vben-tiptap.md
+  s_85973466e08e18::t_3fae5304c90775 49-50,57-59,85-89,151,194,199
+docs/src/components/common-ui/vben-tiptap.md
+  s_85973466e08e18::t_3fae5304c90775 49-50,57-59,85-89,151,194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "8aad93205034f1ad11fb59a3867c95c52780c126",
+  "prompts": {},
+  "humans": {
+    "h_5960e290997e69": {
+      "author": "yuan.ji <961999367@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_85973466e08e18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eeb010ef-5028-4eb1-8641-04d6e3f4ebd0",
+        "model": "glm-5"
+      },
+      "human_author": "yuan.ji <961999367@qq.com>"
+    }
+  }
+}
