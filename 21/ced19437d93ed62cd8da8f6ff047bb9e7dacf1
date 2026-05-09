@@ -1,0 +1,36 @@
+docs/.vitepress/config/en.mts
+  s_85973466e08e18::t_6d8c0ee9f977df 201-204
+docs/src/components/common-ui/vben-cropper.md
+  s_85973466e08e18::t_f6d152cd0d84a4 1-33,35-172
+docs/src/en/components/common-ui/vben-cropper.md
+  s_85973466e08e18::t_ec477c9e4170c0 1-33,35-159
+docs/.vitepress/config/zh.mts
+  s_85973466e08e18::t_670befcbc7d8e3 199-202
+docs/src/demos/vben-cropper/basic/index.vue
+  h_5960e290997e69 29,35
+  s_85973466e08e18::t_b4b0fe3ab8695b 1-6,8-28,30-34,36-54
+docs/src/demos/vben-cropper/aspect-ratio/index.vue
+  s_85973466e08e18::t_6b0290877109be 1-7,9-56,58-62,64-86
+  h_5960e290997e69 57,63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "21ced19437d93ed62cd8da8f6ff047bb9e7dacf1",
+  "prompts": {},
+  "humans": {
+    "h_5960e290997e69": {
+      "author": "yuan.ji <961999367@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_85973466e08e18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eeb010ef-5028-4eb1-8641-04d6e3f4ebd0",
+        "model": "unknown"
+      },
+      "human_author": "yuan.ji <961999367@qq.com>"
+    }
+  }
+}
