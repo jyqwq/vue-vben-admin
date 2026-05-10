@@ -1,0 +1,38 @@
+packages/@core/ui-kit/shadcn-ui/src/ui/input/Input.vue
+  ai_agent 27,37-39
+docs/.vitepress/config/en.mts
+  h_5960e290997e69 205-208
+docs/.vitepress/config/zh.mts
+  h_5960e290997e69 203-206
+packages/effects/plugins/src/tiptap/tiptap.vue
+  ai_agent 31,45-49,52,163-166
+docs/src/en/components/common-ui/vben-tiptap.md
+  ai_agent 1-199
+playground/src/adapter/component/index.ts
+  ai_agent 76-77,727-747
+packages/effects/plugins/src/tiptap/types.ts
+  ai_agent 33
+lefthook.yml
+  ai_agent 53,56
+packages/@core/ui-kit/shadcn-ui/src/ui/select/SelectTrigger.vue
+  ai_agent 27
+docs/src/demos/vben-tiptap/image-upload/index.vue
+  ai_agent 1-45
+packages/effects/layouts/src/basic/layout.vue
+  ai_agent 46,112-120,295
+docs/src/components/common-ui/vben-tiptap.md
+  ai_agent 1-199
+docs/src/demos/vben-tiptap/basic/index.vue
+  ai_agent 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "efd28bc9aa1f9334597c9c69c045c497bada212a",
+  "prompts": {},
+  "humans": {
+    "h_5960e290997e69": {
+      "author": "yuan.ji <961999367@qq.com>"
+    }
+  }
+}
