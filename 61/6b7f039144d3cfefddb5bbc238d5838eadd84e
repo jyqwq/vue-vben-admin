@@ -1,0 +1,25 @@
+docs/src/demos/vben-cropper/basic/index.vue
+  s_85973466e08e18::t_7dbc6c362ef515 2,10-16,20-21,27-28,33-37
+docs/src/demos/vben-cropper/aspect-ratio/index.vue
+  s_85973466e08e18::t_11217ce4e0a948 2,19-25,29-30,36-37,41-45
+docs/src/components/common-ui/vben-cropper.md
+  s_85973466e08e18::t_6b2feda724f0e0 116
+docs/src/en/components/common-ui/vben-cropper.md
+  s_85973466e08e18::t_51fd93ff8cd1c0 103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "616b7f039144d3cfefddb5bbc238d5838eadd84e",
+  "prompts": {},
+  "sessions": {
+    "s_85973466e08e18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eeb010ef-5028-4eb1-8641-04d6e3f4ebd0",
+        "model": "glm-5"
+      },
+      "human_author": "yuan.ji <961999367@qq.com>"
+    }
+  }
+}
