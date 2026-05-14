@@ -1,0 +1,14 @@
+packages/effects/plugins/src/tiptap/extensions.ts
+  h_5960e290997e69 280,284
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.7",
+  "base_commit_sha": "11848d061088b1c0b03850c038c0e8b84c93a5fb",
+  "prompts": {},
+  "humans": {
+    "h_5960e290997e69": {
+      "author": "yuan.ji <961999367@qq.com>"
+    }
+  }
+}
